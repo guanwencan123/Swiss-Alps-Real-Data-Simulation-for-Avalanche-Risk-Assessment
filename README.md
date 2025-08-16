@@ -362,7 +362,7 @@ python -m pytest tests/  # Run tests
 
 ## 👥 Authors
 
-- **Research Team** - Initial development based on SLF methodologies
+- **Wencan Guan** -email:guanwencan123@outlook.com
 - **Swiss Federal Institute for Snow and Avalanche Research (SLF)** - Scientific foundations
 
 ## 🙏 Acknowledgments
